@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\FACT_GRADE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:FACT_GRADE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\TGRADE_FACT.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:TGRADE_FACT.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\INS_COURSE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:INS_COURSE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\DEPT_COURSE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:DEPT_COURSE.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\DEPARTMENT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:DEPARTMENT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\STUDENT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:STUDENT_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\INSTRUCTOR_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:INSTRUCTOR_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\EXAM_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:EXAM_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\COURSE_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{A995C1BE-E88D-42FF-AB39-AE42C125643A}|ITI_ETL.dtproj|solutionrelative:COURSE_DIM.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DEPARTMENT_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\DEPARTMENT_DIM.dtsx",
+              "RelativeDocumentMoniker": "DEPARTMENT_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\DEPARTMENT_DIM.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\DEPARTMENT_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T16:37:24.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FACT_GRADE.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\FACT_GRADE.dtsx",
+              "RelativeDocumentMoniker": "FACT_GRADE.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\FACT_GRADE.dtsx [Design]",
+              "RelativeToolTip": "FACT_GRADE.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T20:02:24.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TGRADE_FACT.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\TGRADE_FACT.dtsx",
+              "RelativeDocumentMoniker": "TGRADE_FACT.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\TGRADE_FACT.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\TGRADE_FACT.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-23T07:53:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INS_COURSE.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\INS_COURSE.dtsx",
+              "RelativeDocumentMoniker": "INS_COURSE.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\INS_COURSE.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\INS_COURSE.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T09:22:06.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DEPT_COURSE.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\DEPT_COURSE.dtsx",
+              "RelativeDocumentMoniker": "DEPT_COURSE.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\DEPT_COURSE.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\DEPT_COURSE.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T16:49:00.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "STUDENT_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\STUDENT_DIM.dtsx",
+              "RelativeDocumentMoniker": "STUDENT_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\STUDENT_DIM.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\STUDENT_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-18T18:11:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INSTRUCTOR_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\INSTRUCTOR_DIM.dtsx",
+              "RelativeDocumentMoniker": "INSTRUCTOR_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\INSTRUCTOR_DIM.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\INSTRUCTOR_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T09:10:42.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EXAM_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\EXAM_DIM.dtsx",
+              "RelativeDocumentMoniker": "EXAM_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\EXAM_DIM.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\EXAM_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T16:52:44.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "COURSE_DIM.dtsx [Design]",
+              "DocumentMoniker": "E:\\Programming\\BI Developer\\ITI Project\\4-ITI_ETL_SSIS\\COURSE_DIM.dtsx",
+              "RelativeDocumentMoniker": "COURSE_DIM.dtsx",
+              "ToolTip": "E:\\Programming\\BI Developer\\ITI Project\\ITI_ETL\\COURSE_DIM.dtsx [Design]",
+              "RelativeToolTip": "..\\ITI_ETL\\COURSE_DIM.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-19T09:26:43.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
